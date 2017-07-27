@@ -1,0 +1,29 @@
+{
+  "name": "chromeless-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sscotth/chromeless-examples.git"
+  },
+  "keywords": [],
+  "author": "Scott Humphries <npm@sscotth.io> (https://sscotth.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sscotth/chromeless-examples/issues"
+  },
+  "homepage": "https://github.com/sscotth/chromeless-examples#readme",
+  "dependencies": {
+    "chromeless": "^1.0.0",
+    "fs-extra": "^4.0.0",
+    "gifencoder": "^1.1.0",
+    "image-size": "^0.6.1",
+    "lodash": "^4.17.4",
+    "png-file-stream": "^1.0.0",
+    "uuid": "^3.1.0"
+  }
+}
